@@ -1,3 +1,4 @@
+## Version 1.0
 # Fake News Detector
 
 ## Problem
