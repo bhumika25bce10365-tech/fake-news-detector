@@ -1,3 +1,4 @@
+# Flask web application for fake news detection
 from flask import Flask, request, render_template
 import pickle
 
